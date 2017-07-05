@@ -1,0 +1,11 @@
+#python
+*.pyc
+
+#file
+*.odt
+*.doc
+*.zip
+*.doc
+
+#picture
+.png
